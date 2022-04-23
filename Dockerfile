@@ -1,4 +1,4 @@
-FROM registry.cn-shenzhen.aliyuncs.com/philiphuang/webspoon-docker:latest
+FROM registry.cn-shenzhen.aliyuncs.com/philiphuang/webspoon-docker:tomcat-9-jre8 
 
 LABEL maintainer="dzd624175217@gmail.com"
 
