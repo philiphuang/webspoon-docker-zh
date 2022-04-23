@@ -1,4 +1,4 @@
-FROM hiromuhota/webspoon:0.9.0.22
+FROM registry.cn-shenzhen.aliyuncs.com/philiphuang/webspoon-docker:latest
 
 LABEL maintainer="dzd624175217@gmail.com"
 
